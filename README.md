@@ -10,6 +10,10 @@
 - [Wikipedia - Category:Exoplanet search projects](https://en.wikipedia.org/wiki/Category:Exoplanet_search_projects)
 - [Wikipedia - Category:Exoplanet search projects by small telescope](https://en.wikipedia.org/wiki/Category:Exoplanet_search_projects_by_small_telescope)
 
+## Communities
+
+- [Exoplanet Hunters Discord](https://discord.gg/5KgMQb8w9g)
+
 ## Databases
 
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
