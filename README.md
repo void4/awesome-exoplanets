@@ -30,6 +30,7 @@
 - [eleanor](https://github.com/afeinstein20/eleanor) - a python package to extract target pixel files from TESS Full Frame Images and produce systematics-corrected light curves for any star observed by the TESS mission.
 - [pyaneti](https://github.com/oscaribv/pyaneti) - A multi-planet Radial Velocity and Transit modelling software
 - [PyTransit](https://github.com/hpparvi/PyTransit) - Fast and easy-to-use tools for exoplanet transit light curve modelling with Python
+- [AstroImageJ](https://www.astro.louisville.edu/software/astroimagej/) - time-series differential photometry, light curve detrending and fitting, and light curve plotting
 
 ## Statistics & Visualizations
 
