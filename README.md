@@ -17,6 +17,7 @@
 ## Databases
 
 - [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+- [Transit Finder](https://astro.swarthmore.edu/transits/)
 - [Exoplanet Transit Database](http://var2.astro.cz/ETD/index.php)
 - [The Extrasolar Planets Encyclopaedia](http://exoplanet.eu/)
 - [NASA Exoplanet Catalog](https://exoplanets.nasa.gov/discovery/exoplanet-catalog/)
